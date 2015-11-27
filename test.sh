@@ -11,6 +11,7 @@ read address
 echo "Age : "
 read age
 clear
+
 echo "###############################################"
 echo "#            Registration Form                #"
 echo "###############################################"
